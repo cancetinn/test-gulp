@@ -1,1 +1,1 @@
-console.log("arina digital test gulp!");
+console.log("Arina Digital test gulp!");
