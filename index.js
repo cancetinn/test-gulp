@@ -1,1 +1,1 @@
-console.log("project started");
+console.log("arina digital test gulp!");
